@@ -1,8 +1,8 @@
-#Frequent path-traversals on web streaming data
+<h1> Frequent path-traversals on web streaming data </h1>
 This java program lists all the frequent path-traversal patterns with a mininum support s. Frequent paths are provided on multiple web-click streaming data via sockets. 
 Socket contains IP address or hostname and a port
 <br>
-Input for the program should contain sockets and support thresholds.
+<b> Input for the program should contain sockets and support thresholds </b>
 <br>
   129.12.12.12,9999
 <br>
@@ -14,14 +14,14 @@ Input for the program should contain sockets and support thresholds.
 <br>
   23
 <br>
-Output:
+<b> Output: </b>
 <br>
    shown in video
 <br>
-Compile the program:
+<b> Compile the program: </b> 
 <br>
     javac P2.java
 <br>
-Run the program:
+<b> Run the program: </b>
 <br>
     java P2
