@@ -16,7 +16,7 @@ Socket contains IP address or hostname and a port
 <br>
 <b> Output: </b>
 <br>
-   shown in video
+   https://youtu.be/gMajL0aHmRg
 <br>
 <b> Compile the program: </b> 
 <br>
